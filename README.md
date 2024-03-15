@@ -1,4 +1,4 @@
-## Project Title: TextVista: Enhanced Text Analysis with Web Scraping and File Management
+# TextVista: Enhanced Text Analysis with Web Scraping and File Management
 
 ## Introduction:
 Welcome to TextVista, your comprehensive solution for extracting, analyzing, and managing textual content sourced from the web! This project integrates cutting-edge web scraping techniques with sophisticated text analysis algorithms to provide actionable insights from online content. With TextVista, you can effortlessly navigate through the vast landscape of digital text, uncovering valuable information and trends hidden within.
